@@ -8,7 +8,7 @@ OPERATION=(sub,crd)=>{
     console.log(oldid)//setting old id size
     oldid.forEach(ele=> {
     let jar=document.getElementById(ele);
-    jar.innerHTML=`<pre>${sub[i]}</pre><select class="common", id="${sub[i]}"><option value=10>A+</option><option value=9>A</option><option value=8>B</option><option value=7>C</option><option value=6>E</option><option value=0>F</option></select>`
+    jar.innerHTML=`<pre>${sub[i]}</pre><select class="common", id="${sub[i]}"><option value=10>A+</option><option value=9>A</option><option value=8>B</option><option value=7>C</option><option value=6>D</option><option value=5>E</option><option value=0>F</option></select>`
     i++;
     });  
     //creating input segment
