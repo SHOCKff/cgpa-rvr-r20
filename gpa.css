@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(181, 213, 213);
+}
+#bra{
+    border-style: solid;
+    border-radius: 25px;
+    margin-right: 190px;
+    text-align: center;
+    padding: 10px;
+  }
+#sem{  
+    margin: 10px;
+    border-style: solid;
+    border-radius: 25px;
+    margin-right: 190px;
+    margin-left: 3px;
+    text-align: center;
+    padding: 10px;
+   }
+#b1{
+    margin-top: 19px;
+    margin-left: 25px;
+    font-size: 1.1rem;
+}
+
